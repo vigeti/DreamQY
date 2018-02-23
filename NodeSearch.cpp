@@ -1,5 +1,3 @@
-// Demo: Searching elements in std::vector using std::find
-
 #include <algorithm>    // for std::find
 #include <iostream>     // for console I/O
 #include <string>       // for std::string

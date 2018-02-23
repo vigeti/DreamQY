@@ -1,5 +1,3 @@
-// Demo: Erase-remove idiom with std::vector
-
 #include <algorithm>	// for std::remove_if
 #include <iostream>	    // for std::cout
 #include <ostream>      // for std::ostream
